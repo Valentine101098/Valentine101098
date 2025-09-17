@@ -1,9 +1,8 @@
 # Hi there, I'm Valentine Wanjiru! 👋
 
 ## 🚀 About Me
-- 🎓 Software Engineering student at Moringa School
-- 🔍 Looking for internship opportunities in software development
-- 📍 Based in Nairobi, Kenya
+- 🎓 I'm a full-stack software developer
+- 🔍 Excited to be part of this community!
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -44,11 +43,6 @@ Lightweight ORM system demonstrating advanced Python concepts
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentine101098&layout=compact&theme=radical)
 
-## 🎯 Currently Learning
-- Advanced Flask development
-- PostgreSQL database management
-- Data structures and algorithms
-- Modern JavaScript frameworks
 
 ## 📫 Let's Connect!
 - 💼 LinkedIn: [https://www.linkedin.com/in/valentine-wanjiru-146301224]
