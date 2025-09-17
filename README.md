@@ -2,8 +2,6 @@
 
 ## 🚀 About Me
 - 🎓 Software Engineering student at Moringa School
-- 💼 Built a real-world SIM tracking system for a telecommunications company
-- 📊 Background in Economics & Statistics from Kenyatta University
 - 🔍 Looking for internship opportunities in software development
 - 📍 Based in Nairobi, Kenya
 
